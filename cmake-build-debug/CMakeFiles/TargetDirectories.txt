@@ -1,0 +1,3 @@
+/Users/chrislee/CLionProjects/DSA1_proj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chrislee/CLionProjects/DSA1_proj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chrislee/CLionProjects/DSA1_proj1/cmake-build-debug/CMakeFiles/DSA1_proj1.dir
